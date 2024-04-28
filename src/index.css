@@ -15,4 +15,8 @@ code {
 a {
   text-decoration: none;
 }
+
+ol {
+  text-decoration: underline;
+}
 /* Plan is to install Tailwind CSS using React framework */
