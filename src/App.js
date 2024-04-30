@@ -40,6 +40,10 @@ function App() {
             <li>1 out of 4 questions answered correctly.</li>
           </ul>
         </details>
+        <hr/>
+        <div>
+          <h1 className="red-letters">Creating clean design is very complicated. Attempt to add good styline to this project.</h1>
+        </div>
       </>
     </div>
   );

@@ -19,4 +19,8 @@ a {
 ol {
   text-decoration: underline;
 }
+
+.red-letters {
+  color: red;
+}
 /* Plan is to install Tailwind CSS using React framework */
